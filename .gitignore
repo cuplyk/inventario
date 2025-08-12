@@ -17,5 +17,8 @@ media
 # .env
 .env
 
+# uv
+uv.lock
+
 # Screencast
 Lithium_Demo_2025.mp4
